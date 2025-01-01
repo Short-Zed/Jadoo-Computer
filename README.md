@@ -8,7 +8,7 @@
 ![Jadoo Preview](./Images/jadoo.gif)  
 
 ### 🔗 Live Preview  
-Check out the live demo: [Jadoo Live Preview](https://short-zed.github.io/BergerGo/)  
+Check out the live demo: [Jadoo Live Preview](https://short-zed.github.io/Jadoo-Computer/)  
 
 ---
 
@@ -32,4 +32,4 @@ Check out the live demo: [Jadoo Live Preview](https://short-zed.github.io/Berger
 ## Installation  
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/zeeshanshaikh/Jadoo-Computer.git  
+   git clone https://github.com/Short-Zed/Jadoo-Computer.git 
